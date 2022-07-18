@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/qrcode-generator/static/css/main.629caf91.css",
-    "main.js": "/qrcode-generator/static/js/main.6dc37dad.js",
+    "main.css": "/qrcode-generator/static/css/main.2e2c3bef.css",
+    "main.js": "/qrcode-generator/static/js/main.1b5cad57.js",
     "index.html": "/qrcode-generator/index.html",
-    "main.629caf91.css.map": "/qrcode-generator/static/css/main.629caf91.css.map",
-    "main.6dc37dad.js.map": "/qrcode-generator/static/js/main.6dc37dad.js.map"
+    "main.2e2c3bef.css.map": "/qrcode-generator/static/css/main.2e2c3bef.css.map",
+    "main.1b5cad57.js.map": "/qrcode-generator/static/js/main.1b5cad57.js.map"
   },
   "entrypoints": [
-    "static/css/main.629caf91.css",
-    "static/js/main.6dc37dad.js"
+    "static/css/main.2e2c3bef.css",
+    "static/js/main.1b5cad57.js"
   ]
 }
