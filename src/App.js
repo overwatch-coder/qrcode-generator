@@ -141,7 +141,7 @@ const App = () => {
 
         {/* Display This If QR Code has been successfully generated*/}
         {displayQrCode &&
-          <div className="flex flex-col items-center gap-y-5">
+          <div className="flex flex-col items-center gap-y-5 pt-5 md:pt-0 pb-16 md:pb-0">
             <h3 
               className="text-light text-2xl uppercase border-b-2 border-amber-500 pb-2">
               Generated QR CODE
